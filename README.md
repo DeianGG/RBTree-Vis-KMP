@@ -1,4 +1,4 @@
-# SDA Project
+# RBTree Visualizer and KMP Matcher
 ### Ageu Deian-Paul
 
 ## Descriere
